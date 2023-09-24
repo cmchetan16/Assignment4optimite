@@ -4,12 +4,12 @@
 Running the Application
 Start the application using the following command: npm start
 
-Project Structure
-Briefly describe the project structure and organization.
+
 
 API Endpoints-
 
 *(FOR POST AND PUT METHODS USE THE BODY IN JSON FORMAT)
+
 *(EXCEPT THE REGISTRATION AND LOGIN ALL API REQURIED THE "Authorization" HEADER WITH THE TOKEN FROM THE LOGIN.)
 
 POST Method- (http://localhost:3000/register) - for user registration
